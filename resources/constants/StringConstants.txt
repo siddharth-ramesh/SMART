@@ -1,0 +1,6 @@
+# StringConstants.txt 	prefix: sc
+# This file contains all string constants. Start line with # to comment
+
+sc_api_endpoint=https://www.quandl.com/api/v3/datasets/
+
+sc_api_key=KQ1-jwwqB4_BZ8ANpVpH

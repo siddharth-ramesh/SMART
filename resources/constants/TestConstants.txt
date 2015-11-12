@@ -1,0 +1,4 @@
+# Contains constants used for junit testing of constant loading
+# prefix: test
+
+test_author=Siddharth Ramesh
